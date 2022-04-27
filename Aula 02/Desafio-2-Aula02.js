@@ -19,6 +19,17 @@ da propriedade `andando` para o valor booleano que representa "falso".
 */
 
 /*
+Adicione um método ao objeto `pessoa` chamado `andar`, que terá as seguintes
+características:
+- Esse método deve receber por parâmetro um valor que representará a quantidade
+de metros caminhados;
+- Ele deve alterar o valor da propriedade `caminhouQuantosMetros`, somando ao
+valor dessa propriedade a quantidade passada por parâmetro;
+- Ele deverá modificar o valor da propriedade `andando` para o valor
+booleano que representa "verdadeiro";
+*/
+
+/*
 Crie um método chamado `nomeCompleto`, que retorne a frase:
 - "Olá! Meu nome é [NOME] [SOBRENOME]!"
 */
@@ -57,10 +68,6 @@ inline ao lado da instrução para mostrar qual foi a resposta retornada)
 /*
 Qual a altura da pessoa? (Use a instrução para responder e comentários
 inline ao lado da instrução para mostrar qual foi a resposta retornada)
-*/
-
-/*
-Faça a `pessoa` fazer 3 aniversários.
 */
 
 /*
